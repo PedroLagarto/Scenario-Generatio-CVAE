@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+ipykernel
+tqdm
+
+# deep learning
+torch>=1.10
+torchvision
+
+# optional (for Colab or cloud)
+# sentencepiece  # se usar modelos T5/BART depois
